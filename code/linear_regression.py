@@ -6,7 +6,7 @@ print(df.head())
 print(df.info())
 
 # Set X to include multiple independent variables
-X = df[['Median income (dollars)', 'density(/hectare)', 'Nearest distance (km)']]
+X = df[['Median income (dollars)', 'density(/hectare)', 'Nearest distance (m)']]
 y = df['percent_households_with_car']
 # Run the regression model
 X = sm.add_constant(X)  # Add a constant term for intercept
@@ -23,7 +23,7 @@ m = sm.OLS(y, X).fit()
 print(m.summary())
 
 # Update X 
-X = df[['Median income (dollars)', 'Nearest distance (km)']]
+X = df[['Median income (dollars)', 'Nearest distance (m)']]
 # Re-run the regression model
 X = sm.add_constant(X)  # Add a constant term for intercept
 m = sm.OLS(y, X).fit()
@@ -47,7 +47,7 @@ m = sm.OLS(y, X).fit()
 print(m.summary())
 
 # Update X 
-X = df['Nearest distance (km)']
+X = df['Nearest distance (m)']
 # Re-run the regression model
 X = sm.add_constant(X)  # Add a constant term for intercept
 m = sm.OLS(y, X).fit()
