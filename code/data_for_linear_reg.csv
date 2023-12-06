@@ -1,4 +1,4 @@
-NAME,Median income (dollars),density(/hectare),Nearest distance (km),percent_households_with_car
+NAME,Median income (dollars),density(/hectare),Nearest distance (m),percent_households_with_car
 Census Tract 1001,90788,0.093405751,375.689367,97
 Census Tract 1002,129875,0.134039908,531.1085208,85
 Census Tract 1003,111659,0.061222263,210.0348558,76
