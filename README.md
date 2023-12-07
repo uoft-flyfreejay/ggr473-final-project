@@ -26,7 +26,3 @@ In this folder, you can find the the original dataset we downloaded from US Cens
 
 In this folder, you can find the report and reflection piece of our project.
 
-4. Maps
-
-In this folder, you will find maps we made during our analysis.
-
