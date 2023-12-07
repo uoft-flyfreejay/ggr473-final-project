@@ -2,6 +2,9 @@
 
 ## Project Overview
 
+Our group project aims to explore the relationship between proximity to public transport, car ownership, and the income of surrounding residents. \n
+
+
 The data are available at:
 * 2010 Chicago census tracts: https://data.cityofchicago.org/Facilities-Geographic-Boundaries/Boundaries-Census-Tracts-2010/5jrd-6zik
 
