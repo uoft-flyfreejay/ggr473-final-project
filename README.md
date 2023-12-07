@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-Our group project aims to explore the relationship between proximity to public transport, car ownership, and the income of surrounding residents. \n
+Our group project aims to explore the relationship between proximity to public transport, car ownership, and the income of surrounding residents. 
 
 
 The data are available at:
