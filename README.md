@@ -10,7 +10,9 @@ The data are available at:
 
 * Median income data: https://data.census.gov/table?t=Income%20and%20Poverty
 
-* Vehicles per household data: https://data.census.gov/table/ACSST5Y2021.S2504?q=vehicle&g=1400000US17031100600
+* Household vehicle data: https://data.census.gov/table/ACSST5Y2021.S2504?q=vehicle&g=1400000US17031100600
+
+* Chicago bus stop data: https://data.cityofchicago.org/Transportation/CTA-Bus-Stops/hvnx-qtky
 
 ## File Structure
 
@@ -26,3 +28,6 @@ In this folder, you can find the the original dataset we downloaded from US Cens
 
 In this folder, you can find the report and reflection piece of our project.
 
+4. Maps
+
+In this folder, you will find maps we made during our analysis.
